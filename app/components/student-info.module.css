@@ -1,0 +1,20 @@
+.student-info-container {
+    text-align: center;
+    margin-top: 50px;
+    background-color: rgba(95, 157, 160, 0.666);
+  }
+  
+  .student-name {
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .github-link a {
+    color: #0070f3;
+    text-decoration: none;
+  }
+  
+  .github-link a:hover {
+    text-decoration: underline;
+  }
+  
